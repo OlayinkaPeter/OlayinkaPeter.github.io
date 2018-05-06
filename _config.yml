@@ -2,8 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-theme: minima
-
 # Name of your site (displayed in the header)
 name: Olayinka Peter Oluwafemi
 
@@ -85,3 +83,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+
+theme: Minima
